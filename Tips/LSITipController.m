@@ -7,6 +7,7 @@
 //
 
 #import "LSITipController.h"
+#import "LSITip.h"
 
 @implementation LSITipController
 
